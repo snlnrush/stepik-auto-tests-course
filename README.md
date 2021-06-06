@@ -1,2 +1,2 @@
-# stepik-auto-tests-course
-Homework for the course
+Репозиторий посвящен курсу "Автоматизация тестирования с помощью Selenium и Python". Здесь хранятся решения заданий по курсу.
+
